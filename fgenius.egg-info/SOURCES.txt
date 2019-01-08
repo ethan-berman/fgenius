@@ -1,0 +1,7 @@
+README.md
+fgenius.egg-info/PKG-INFO
+fgenius.egg-info/SOURCES.txt
+fgenius.egg-info/dependency_links.txt
+fgenius.egg-info/not-zip-safe
+fgenius.egg-info/requires.txt
+fgenius.egg-info/top_level.txt
